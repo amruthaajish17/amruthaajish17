@@ -4,7 +4,7 @@
 # 🌞 About Me:
 I’m Amrutha Ajish Achuthan, a second-year B.Tech Computer Science student at Saintgits College of Engineering.
 
-💻 Interests: I have a keen interest in artificial intelligence, and cybersecurity. I enjoy exploring new technologies and am always looking forward to enhance my knowledge.
+💻 Interests:<br> I have a keen interest in artificial intelligence, and cybersecurity. I enjoy exploring new technologies and am always looking forward to enhance my knowledge.
 
 🔭 I’m currently working on<br>- Building my foundational knowledge in computer science and exploring various aspects of cybersecurity.<br><br>🌱 I’m currently learning<br>- Programming languages like Python and C to enhance my technical skills.<br>- The basics of cybersecurity, including network security and ethical hacking<br><br>👯 I’m looking to collaborate on:<br>- Beginner level projects or competitions related to cybersecurity.<br>- Workshops and study groups focused on cybersecurity technologies.<br><br>🤝 I’m looking for help with <br>- Finding internship opportunities in the field of cybersecurity.<br>- Networking with professionals in the cybersecurity industry for guidance.<br><br> 📫 How to reach me: <br>- amruthaajishachuthan@gmail.com<br>- LinkedIn messaging<br><br>😄 Pronouns: <br>She/Her<br><br>⚡ Fun fact:<br>- I enjoy writing poetry and articles, and I've had my work published in various publications. Literature is one of my passions, and I want to explore how it resonates with technology.<br><br>
 
