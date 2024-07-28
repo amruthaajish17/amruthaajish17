@@ -42,7 +42,7 @@ I’m Amrutha Ajish Achuthan, a second-year B.Tech Computer Science student at S
 
 - **Class 11th & 12th**  
   Saint Antony's Public School, Anakkal, Kanjirappally, Kottayam, Kerala  
-  *May 2022 – March 2023*  
+  *May 2021 – March 2023*  
   - Marks: 91.2%
 
 - **Class 10th**  
