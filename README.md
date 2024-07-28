@@ -4,10 +4,23 @@
 # 🌞 About Me:
 I’m Amrutha Ajish Achuthan, a second-year B.Tech Computer Science student at Saintgits College of Engineering.
 
- 💻 Interests:
+ ## 💻 Interests:
 <br> - I have a keen interest in artificial intelligence, and cybersecurity. I enjoy exploring new technologies and am always looking forward to enhance my knowledge.
 
-🔭 I’m currently working on<br>- Building my foundational knowledge in computer science and exploring various aspects of cybersecurity.<br><br>🌱 I’m currently learning<br>- Programming languages like Python and C to enhance my technical skills.<br>- The basics of cybersecurity, including network security and ethical hacking<br><br>👯 I’m looking to collaborate on:<br>- Beginner level projects or competitions related to cybersecurity.<br>- Workshops and study groups focused on cybersecurity technologies.<br><br>🤝 I’m looking for help with <br>- Finding internship opportunities in the field of cybersecurity.<br>- Networking with professionals in the cybersecurity industry for guidance.<br><br> 📫 How to reach me: <br>- amruthaajishachuthan@gmail.com<br>- LinkedIn messaging<br><br>😄 Pronouns: <br>She/Her<br><br>⚡ Fun fact:<br>- I enjoy writing poetry and articles, and I've had my work published in various publications. Literature is one of my passions, and I want to explore how it resonates with technology.<br><br>
+## 🔭 I’m currently working on
+<br>- Building my foundational knowledge in computer science and exploring various aspects of cybersecurity.<br><br>
+## 🌱 I’m currently learning
+<br>- Programming languages like Python and C to enhance my technical skills.<br>- The basics of cybersecurity, including network security and ethical hacking<br><br>
+## 👯 I’m looking to collaborate on:
+<br>- Beginner level projects or competitions related to cybersecurity.<br>- Workshops and study groups focused on cybersecurity technologies.<br><br>
+## 🤝 I’m looking for help with
+<br>- Finding internship opportunities in the field of cybersecurity.<br>- Networking with professionals in the cybersecurity industry for guidance.<br><br> 
+## 📫 How to reach me: 
+<br>- amruthaajishachuthan@gmail.com<br>- LinkedIn messaging<br><br>
+## 😄 Pronouns:
+<br>She/Her<br><br>
+## ⚡ Fun fact: 
+<br>- I enjoy writing poetry and articles, and I've had my work published in various publications. Literature is one of my passions, and I want to explore how it resonates with technology.<br><br>
 
 ## 📍 Location
 <br>
@@ -16,7 +29,7 @@ I’m Amrutha Ajish Achuthan, a second-year B.Tech Computer Science student at S
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/amrutha_ajish) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i._.am_ruthaaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amrutha-ajish-achuthan) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/amrutha_ajish) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 
