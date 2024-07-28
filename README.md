@@ -95,7 +95,6 @@ I’m Amrutha Ajish Achuthan, a second-year B.Tech Computer Science student at S
 
 - Diligence
 - Adaptability
-- Leadership
 - Commitment
 - Problem-solving
 - Creativity
