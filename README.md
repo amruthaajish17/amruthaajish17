@@ -39,6 +39,7 @@ I’m Amrutha Ajish Achuthan, a second-year B.Tech Computer Science student at S
   Saintgits College of Engineering, Kottayam, Kerala  
   *August 2023 – Present*  
   - 1st Sem CGPA: 10/10
+  - 2nd Sem CGPA: 9.95/10
 
 - **Class 11th & 12th**  
   Saint Antony's Public School, Anakkal, Kanjirappally, Kottayam, Kerala  
