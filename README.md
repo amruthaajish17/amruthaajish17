@@ -103,6 +103,7 @@ I’m Amrutha Ajish Achuthan, a second-year B.Tech Computer Science student at S
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=amruthaajish17&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amruthaajish17&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nnmm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## 🏆 GitHub Trophies
@@ -113,6 +114,5 @@ I’m Amrutha Ajish Achuthan, a second-year B.Tech Computer Science student at S
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=amruthaajish17&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
 
 
